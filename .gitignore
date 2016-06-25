@@ -5,3 +5,14 @@ Preliminary/data/LLCP2014XPT.ZIP
 data/LLCP2014XPT.txt
 data/LLCP2014XPT.ZIP
 Study/.ipynb_checkpoints/Closing the Gap Study Revisited-checkpoint.ipynb
+data/sas Xport files/LLCP2012.XPT
+data/sas Xport files/LLCP2013.XPT
+*.XPT
+data/zip files/LLCP2014txt.zip
+data/zip files/LLCP2014XPT.txt
+data/zip files/LLCP2014XPT.csv
+data/zip files/LLCP2014XPT.ZIP
+Study/brfss2012_2014.csv
+Study/data/brfss2012_2014.csv
+Study/Test.zip
+Study/.ipynb_checkpoints/BRFSS Data Prep-checkpoint.ipynb
