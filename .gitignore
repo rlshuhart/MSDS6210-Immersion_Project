@@ -16,3 +16,5 @@ Study/brfss2012_2014.csv
 Study/data/brfss2012_2014.csv
 Study/Test.zip
 Study/.ipynb_checkpoints/BRFSS Data Prep-checkpoint.ipynb
+Study/BRFSS.twb
+*.tde
